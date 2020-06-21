@@ -1,0 +1,10 @@
+.idea
+.vscode
+venv
+node_modules
+common/app.cfg
+*.pyc
+*.swp
+npm-debug.log.*
+npm-debug.log
+package-lock.json
